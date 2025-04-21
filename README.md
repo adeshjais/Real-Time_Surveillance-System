@@ -7,20 +7,20 @@ A comprehensive real-time surveillance system with capabilities such as face rec
 
 ## 📚 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributions](#contributions)
-- [Contact](#contact)
+- [🔍 Overview](#-overview)
+- [✨ Features](#-features)
+- [⚙️ Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [🛠️ Configuration](#-configuration)
+- [🤝 Contributions](#-contributions)
+- [📬 Contact](#-contact)
 
 
 
 
 ---
 
-## Overview
+## 🔍 Overview
 
 This Real-Time Smart Surveillance System is built to address modern security needs using advanced computer vision techniques. It provides intelligent detection and monitoring capabilities, allowing organizations and individuals to track activities in real-time with precision and reliability.
 
@@ -42,7 +42,7 @@ This Real-Time Smart Surveillance System is built to address modern security nee
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 Follow these steps to get started:
 
